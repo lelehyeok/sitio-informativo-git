@@ -1,0 +1,3 @@
+Objetivo del proyecto: Facilitar la administracion y control operativo
+Público al que va dirigido: Dueños de negocios de renta de brincolines y mobiliario
+Tres características principales: Gestión de usuario, gestión de inventario y reservación de fechas
